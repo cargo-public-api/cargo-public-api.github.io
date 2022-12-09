@@ -1,6 +1,6 @@
 ## Maintainer facilities
 
-This site makes life easier for https://github.com/Enselic/cargo-public-api maintainers.
+This site makes life easier for [cargo-public-api](https://github.com/Enselic/cargo-public-api) maintainers.
 
 ### Preview of release notes
 

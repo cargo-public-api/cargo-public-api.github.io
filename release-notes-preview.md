@@ -1,4 +1,4 @@
-## Preview of auto-generated release notes preview
+## Preview of auto-generated release notes
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
 
@@ -6,4 +6,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.24.1...main
 
 
-(This page was updated **2022-12-11T05:36:19+00:00** by `workflow_dispatch` via [Peek-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3667594844/jobs/show-release-notes))
+(This page was updated **2022-12-11T05:39:45+00:00** by `workflow_dispatch` via [Peek-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3667604489/jobs/show-release-notes))

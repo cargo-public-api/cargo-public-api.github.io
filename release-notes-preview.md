@@ -1,5 +1,6 @@
-layout: page
-title: main
+---
+title: Why is this title not used??
+---
 
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 

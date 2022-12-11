@@ -4,4 +4,4 @@ This site makes life easier for [cargo-public-api](https://github.com/Enselic/ca
 
 ### Preview of release notes
 
-See [release-notes-preview.md](./release-notes-preview.md) for a preview of the auto-generated release notes.
+See [release-notes-preview.md](https://github.com/cargo-public-api/cargo-public-api.github.io/blob/main/release-notes-preview.md) for a preview of the auto-generated release notes.

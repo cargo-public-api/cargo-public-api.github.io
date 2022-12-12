@@ -4,9 +4,11 @@
 ## What's Changed
 ### New Features
 * Interpret `--color` as `--color=always` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/239
+### Other Changes
+* Deprecate legacy `--diff` CLI and point to new `diff` subcommand instead by @Enselic in https://github.com/Enselic/cargo-public-api/pull/241
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.24.1...main
 
 
-(This page was updated **2022-12-11T22:21:06+00:00** by `push` via [Peek-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3671084293))
+(This page was updated **2022-12-12T05:01:50+00:00** by `push` via [Peek-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3672816584))

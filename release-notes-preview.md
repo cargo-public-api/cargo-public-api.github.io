@@ -7,6 +7,7 @@
 ### Other Changes
 * Deprecate legacy `--diff` CLI and point to new `diff` subcommand instead by @Enselic in https://github.com/Enselic/cargo-public-api/pull/241
 * rustdoc-json: add support for --document-private-items by @dimpolo in https://github.com/Enselic/cargo-public-api/pull/242
+* Remove `test-utils` helper crate by @Enselic in https://github.com/Enselic/cargo-public-api/pull/243
 
 ## New Contributors
 * @dimpolo made their first contribution in https://github.com/Enselic/cargo-public-api/pull/242
@@ -14,4 +15,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.24.1...main
 
 
-(This page was updated **2022-12-12T17:33:25+00:00** by `push` via [Peek-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3678259866))
+(This page was updated **2022-12-14T05:17:49+00:00** by `push` via [Peek-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3691992864))

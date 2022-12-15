@@ -7,7 +7,7 @@
 ### `rustdoc-json` library
 * Support `--document-private-items` by @dimpolo in https://github.com/Enselic/cargo-public-api/pull/242
 * Derive `Clone` for `rustdoc_json::Builder` by @dimpolo in https://github.com/Enselic/cargo-public-api/pull/244
-### Other Changes
+### Uncategorized
 * Deprecate legacy `--diff` CLI and point to new `diff` subcommand instead by @Enselic in https://github.com/Enselic/cargo-public-api/pull/241
 
 ## New Contributors
@@ -16,4 +16,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.24.1...main
 
 
-(This page was updated **2022-12-15T16:28:00+00:00** by `workflow_dispatch` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3705991897))
+(This page was updated **2022-12-15T16:35:16+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3706044580))

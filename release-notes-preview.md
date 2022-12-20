@@ -6,9 +6,10 @@
 * Add `rustdoc_json::Builder::package_target()` to build for bin, test, bench, etc by @dimpolo in https://github.com/Enselic/cargo-public-api/pull/246
 ### Uncategorized
 * Correctly determine JSON path for `Builder::package("foo@1.0.0")` by @dimpolo in https://github.com/Enselic/cargo-public-api/pull/247
+* Ensure all files in the git repo ends with a newline char by @Enselic in https://github.com/Enselic/cargo-public-api/pull/249
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.24.2...main
 
 
-(This page was updated **2022-12-20T05:35:37+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3737835153))
+(This page was updated **2022-12-20T09:37:59+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3739269242))

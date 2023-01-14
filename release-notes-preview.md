@@ -5,7 +5,7 @@
 ### Bugfixes
 * Group `impl`s better, make sorting more lexicographic by @Enselic in https://github.com/Enselic/cargo-public-api/pull/269
 * Properly group multiple inherent `impl`s by @Enselic in https://github.com/Enselic/cargo-public-api/pull/270
-### Uncategorized
+### Other Changes
 * README: Fix typo in compatibility matrix by @nbraud in https://github.com/Enselic/cargo-public-api/pull/288
 
 ## New Contributors
@@ -15,4 +15,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.26.0...main
 
 
-(This page was updated **2023-01-14T21:09:19+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3920302129))
+(This page was updated **2023-01-14T21:10:13+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/3920305236))

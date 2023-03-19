@@ -6,9 +6,11 @@
 * Enable `,` as `--omit` value delimiter by @Enselic in https://github.com/Enselic/cargo-public-api/pull/345
 ### Other Changes
 * Change `-s` / `--simplified` to be usable up to 3 times by @Enselic in https://github.com/Enselic/cargo-public-api/pull/344
+### `public-api` library
+* Introduce `public_api::Builder`, deprecate `PublicApi::from_rustdoc_json()` and `Options` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/353
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.27.3...main
 
 
-(This page was updated **2023-03-18T09:51:02+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/4454780386))
+(This page was updated **2023-03-19T05:48:02+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/4459187386))

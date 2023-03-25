@@ -8,9 +8,10 @@
 * Change `-s` / `--simplified` to be usable up to 3 times by @Enselic in https://github.com/Enselic/cargo-public-api/pull/344
 ### `public-api` library
 * Introduce `public_api::Builder`, deprecate `PublicApi::from_rustdoc_json()` and `Options` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/353
+* public-api: Rename `MINIMUM_NIGHTLY_VERSION` to `MINIMUM_NIGHTLY_RUST_VERSION` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/363
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.27.3...main
 
 
-(This page was updated **2023-03-22T03:33:23+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/4486155994))
+(This page was updated **2023-03-25T06:45:20+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/4517968268))

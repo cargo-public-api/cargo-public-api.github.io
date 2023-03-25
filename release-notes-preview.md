@@ -1,19 +1,9 @@
 ## Preview of auto-generated release notes
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
-## What's Changed
-### Bugfixes
-* Enable `,` as `--omit` value delimiter by @Enselic in https://github.com/Enselic/cargo-public-api/pull/345
-### Other Changes
-* Change `-s` / `--simplified` to be usable up to 3 times by @Enselic in https://github.com/Enselic/cargo-public-api/pull/344
-### `public-api` library
-* Introduce `public_api::Builder`, deprecate `PublicApi::from_rustdoc_json()` and `Options` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/353
-* public-api: Rename `MINIMUM_NIGHTLY_VERSION` to `MINIMUM_NIGHTLY_RUST_VERSION` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/363
-### `rustup-toolchain` library
-* rustup-toolchain: Rename `ensure_installed()` to `install()` and deprecate `is_installed()` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/365
 
 
-**Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.27.3...main
+**Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.28.0...main
 
 
-(This page was updated **2023-03-25T09:46:26+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/4518614861))
+(This page was updated **2023-03-25T10:11:37+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/4518702169))

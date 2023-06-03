@@ -7,7 +7,6 @@
 ### Other Changes
 * Ignore `!` when sorting `impl`s to make `Send` and `Sync` order stable by @Enselic in https://github.com/Enselic/cargo-public-api/pull/430
 ### Uncategorized
-* Bless `nightly-2023-06-01` output by @EnselicCICD in https://github.com/Enselic/cargo-public-api/pull/432
 * Rustdoc-JSON: Replace `-` with `_` for binary package target by @frondeus in https://github.com/Enselic/cargo-public-api/pull/419
 
 ## New Contributors
@@ -16,4 +15,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.30.0...main
 
 
-(This page was updated **2023-06-03T08:01:02+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/5162624789))
+(This page was updated **2023-06-03T08:01:18+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/5162625902))

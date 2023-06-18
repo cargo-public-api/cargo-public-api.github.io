@@ -1,12 +1,9 @@
 ## Preview of auto-generated release notes
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
-## What's Changed
-### New Features
-* Support sparse crates.io registry index by @Enselic in https://github.com/Enselic/cargo-public-api/pull/439
 
 
-**Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.31.1...main
+**Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.31.2...main
 
 
-(This page was updated **2023-06-18T11:38:23+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/5303423212))
+(This page was updated **2023-06-18T13:44:12+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/5303995855))

@@ -2,11 +2,11 @@
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
 ## What's Changed
-### Bugfixes
-* Handle when `[package]` `name` differs from `[lib]` `name` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/477
+### Uncategorized
+* dependabot: Ignore patch updates of widely used packages by @Enselic in https://github.com/Enselic/cargo-public-api/pull/478
 
 
-**Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.31.2...main
+**Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.31.3...main
 
 
-(This page was updated **2023-08-04T10:07:18+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/5760993139))
+(This page was updated **2023-08-06T05:27:20+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/5774857055))

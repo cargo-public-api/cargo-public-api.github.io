@@ -1,9 +1,12 @@
 ## Preview of auto-generated release notes
 <!-- Release notes generated using configuration in .github/release.yml at main -->
 
+## What's Changed
+### Uncategorized
+* add various keywords by @Emilgardis in https://github.com/Enselic/cargo-public-api/pull/494
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.32.0...main
 
 
-(This page was updated **2023-09-04T05:18:43+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/6069423589))
+(This page was updated **2023-09-08T18:47:12+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/6125343381))

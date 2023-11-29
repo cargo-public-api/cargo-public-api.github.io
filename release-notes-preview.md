@@ -4,10 +4,9 @@
 ## What's Changed
 ### Uncategorized
 * add various keywords by @Emilgardis in https://github.com/Enselic/cargo-public-api/pull/494
-* Bless `nightly-2023-10-31` output by @EnselicCICD in https://github.com/Enselic/cargo-public-api/pull/511
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.32.0...main
 
 
-(This page was updated **2023-11-20T04:28:15+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/6925535948))
+(This page was updated **2023-11-29T06:48:39+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/7029011986))

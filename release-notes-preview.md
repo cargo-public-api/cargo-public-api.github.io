@@ -16,4 +16,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.33.1...main
 
 
-(This page was updated **2024-03-23T15:19:23+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8402723141))
+(This page was updated **2024-03-23T15:25:18+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8402758824))

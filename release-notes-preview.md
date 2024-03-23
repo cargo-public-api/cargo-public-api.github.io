@@ -6,6 +6,7 @@
 * Remove `cargo public-api --toolchain foo` arg. Use `cargo +foo public-api` instead. by @Enselic in https://github.com/Enselic/cargo-public-api/pull/555
 ### New Features
 * Include all subcommands in top-level `--help` output by @Enselic in https://github.com/Enselic/cargo-public-api/pull/520
+* Print a nice error message if `rustup` is not in `PATH` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/556
 ### Other Changes
 * Update `cargo-manifest` from `0.12.0` to `0.13.0` by @fornwall in https://github.com/Enselic/cargo-public-api/pull/525
 
@@ -15,4 +16,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.33.1...main
 
 
-(This page was updated **2024-03-23T07:17:28+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8400239847))
+(This page was updated **2024-03-23T09:14:30+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8400808985))

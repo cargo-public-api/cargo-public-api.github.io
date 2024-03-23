@@ -9,8 +9,6 @@
 * Print a nice error message if `rustup` is not in `PATH` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/556
 ### Other Changes
 * Update `cargo-manifest` from `0.12.0` to `0.13.0` by @fornwall in https://github.com/Enselic/cargo-public-api/pull/525
-### Uncategorized
-* Update release process; allow independent `public-api` and `cargo-public-api` releases by @Enselic in https://github.com/Enselic/cargo-public-api/pull/558
 
 ## New Contributors
 * @fornwall made their first contribution in https://github.com/Enselic/cargo-public-api/pull/525
@@ -18,4 +16,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.33.1...main
 
 
-(This page was updated **2024-03-23T15:17:08+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8402709056))
+(This page was updated **2024-03-23T15:19:23+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8402723141))

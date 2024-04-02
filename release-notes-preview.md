@@ -3,7 +3,7 @@
 
 ## What's Changed
 ### Bugfixes
-* Make diffing against published crate work when `[package] name` is not same as `[lib] name` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/562
+* Make diffing against published crate work when its `[package] name` is not the same as its `[lib] name` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/562
 ### Other Changes
 * Use the `tracing` crate for debug logging and e.g. `RUST_LOG=debug` to activate by @Enselic in https://github.com/Enselic/cargo-public-api/pull/564
 ### Uncategorized
@@ -13,4 +13,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.34.0...main
 
 
-(This page was updated **2024-04-02T11:50:20+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8522267461))
+(This page was updated **2024-04-02T11:51:16+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8522277555))

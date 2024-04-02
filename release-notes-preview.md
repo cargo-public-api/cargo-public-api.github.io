@@ -4,6 +4,8 @@
 ## What's Changed
 ### Bugfixes
 * Make diffing against published crate work when `[package] name` is not same as `[lib] name` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/562
+### Other Changes
+* Replace `rustdoc_json::Builder::verbose` with the `tracing` crate by @Enselic in https://github.com/Enselic/cargo-public-api/pull/564
 ### Uncategorized
 * Bump cargo-manifest from v0.13.0 to v0.14.0 by @Enselic in https://github.com/Enselic/cargo-public-api/pull/563
 
@@ -11,4 +13,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.34.0...main
 
 
-(This page was updated **2024-04-02T11:39:51+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8522152980))
+(This page was updated **2024-04-02T11:48:42+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/8522248941))

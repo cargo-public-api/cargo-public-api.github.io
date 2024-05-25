@@ -4,6 +4,7 @@
 ## What's Changed
 ### Bugfixes
 * Allow `--package`, `--color` etc also after subcommands such as `diff` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/569
+* Match `cargo`'s handling of spaces with `--features` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/580
 ### Uncategorized
 * Allow output of rustdoc-json to be captured. by @orium in https://github.com/Enselic/cargo-public-api/pull/574
 * Prepare rustdoc-json v0.9.1 by @Enselic in https://github.com/Enselic/cargo-public-api/pull/579
@@ -14,4 +15,4 @@
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.34.1...main
 
 
-(This page was updated **2024-05-23T18:20:11+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/9212953589))
+(This page was updated **2024-05-25T16:17:58+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/9236731151))

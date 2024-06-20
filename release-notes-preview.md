@@ -4,9 +4,11 @@
 ## What's Changed
 ### New Features
 * Support `nightly-2024-06-07` by @Enselic in https://github.com/Enselic/cargo-public-api/pull/581
+### Bugfixes
+* Don't panic when encountering constants without a type (e.g. `TakesConstGenericArg<120>`) by @Enselic in https://github.com/Enselic/cargo-public-api/pull/584
 
 
 **Full Changelog**: https://github.com/Enselic/cargo-public-api/compare/v0.34.2...main
 
 
-(This page was updated **2024-06-10T05:03:59+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/9442748536))
+(This page was updated **2024-06-20T05:51:33+00:00** by `push` via [Preview-release-notes.yml](https://github.com/Enselic/cargo-public-api/actions/runs/9592310363))

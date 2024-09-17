@@ -15,4 +15,4 @@
 **Full Changelog**: https://github.com/cargo-public-api/cargo-public-api/compare/v0.37.0...main
 
 
-(This page was updated **2024-09-17T04:23:00+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/10896496724))
+(This page was updated **2024-09-17T04:23:07+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/10896497668))

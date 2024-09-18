@@ -6,7 +6,6 @@
 * bump rustdoc-types from 0.27.0 to 0.30.0 by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/617
 * docs: Update RELEASE.md to match release process by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/620
 ### Uncategorized
-* Bless `nightly-2024-08-18` output by @EnselicCICD in https://github.com/cargo-public-api/cargo-public-api/pull/609
 * Bump public-api to v0.38.0 by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/623
 * Bump cargo-public-api to v0.38.0 by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/625
 
@@ -16,4 +15,4 @@
 **Full Changelog**: https://github.com/cargo-public-api/cargo-public-api/compare/v0.37.0...main
 
 
-(This page was updated **2024-09-18T18:57:20+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/10928413455))
+(This page was updated **2024-09-18T19:00:54+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/10928459090))

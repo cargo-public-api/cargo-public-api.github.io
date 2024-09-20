@@ -8,6 +8,7 @@
 ### Uncategorized
 * Bump public-api to v0.38.0 by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/623
 * Bump cargo-public-api to v0.38.0 by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/625
+* update the Compatibility Matrix for 0.38.0 by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/626
 
 ## New Contributors
 * @Billy99 made their first contribution in https://github.com/cargo-public-api/cargo-public-api/pull/617
@@ -15,4 +16,4 @@
 **Full Changelog**: https://github.com/cargo-public-api/cargo-public-api/compare/v0.37.0...main
 
 
-(This page was updated **2024-09-18T19:00:54+00:00** by `pull_request_target` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/10928459090))
+(This page was updated **2024-09-20T03:18:07+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/10952573738))

@@ -8,6 +8,8 @@
 ### Other Changes
 * Support `nightly-2024-09-10` and later by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/617
 * docs: Update RELEASE.md to match release process by @Billy99 in https://github.com/cargo-public-api/cargo-public-api/pull/620
+### Uncategorized
+* Stop auto-generating release notes. Grab them from CHANGELOG.md instead by @Enselic in https://github.com/cargo-public-api/cargo-public-api/pull/644
 
 ## New Contributors
 * @Billy99 made their first contribution in https://github.com/cargo-public-api/cargo-public-api/pull/617
@@ -16,4 +18,4 @@
 **Full Changelog**: https://github.com/cargo-public-api/cargo-public-api/compare/v0.37.0...main
 
 
-(This page was updated **2024-11-04T04:18:18+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/11657992433))
+(This page was updated **2024-11-04T15:12:41+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/11667062622))

@@ -12,6 +12,7 @@
 * Stop auto-generating release notes. Grab them from CHANGELOG.md instead by @Enselic in https://github.com/cargo-public-api/cargo-public-api/pull/644
 * RELEASE.md: Clarify when not to release by @Enselic in https://github.com/cargo-public-api/cargo-public-api/pull/622
 * Eliminate unnecessary `.map(Deref::deref)` by @smoelius in https://github.com/cargo-public-api/cargo-public-api/pull/649
+* Configure support for GitHub Merge Queues by @Enselic in https://github.com/cargo-public-api/cargo-public-api/pull/650
 
 ## New Contributors
 * @Billy99 made their first contribution in https://github.com/cargo-public-api/cargo-public-api/pull/617
@@ -21,4 +22,4 @@
 **Full Changelog**: https://github.com/cargo-public-api/cargo-public-api/compare/v0.37.0...main
 
 
-(This page was updated **2024-11-14T15:35:35+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/11840456332))
+(This page was updated **2024-11-14T15:53:31+00:00** by `push` via [Preview-release-notes.yml](https://github.com/cargo-public-api/cargo-public-api/actions/runs/11840772525))
